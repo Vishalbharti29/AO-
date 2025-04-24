@@ -1,5 +1,5 @@
-# Name: Aditya Mishra 
-# Roll Number - 21013
+# Name: vishal bharti 
+# Roll Number - 21310
 
 import networkx as nx
 import math
